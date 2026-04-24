@@ -59,13 +59,13 @@ Bu proje, İnsansız Hava Araçları için geleneksel ESC'lerin ötesine geçen,
 
 ### 📐 Şematik — Güç Regülasyonu ve Akım Ölçümü
 
-![Güç Şeması](guc_sematik.png)
+![Güç Şeması](guc.png)
 
 ---
 
 ### 📐 Şematik — Güç ve Kontrol Bölümleri
 
-![Kontrol Şeması](kontrol_sematik.png)
+![Kontrol Şeması](kontrol.png)
 
 ---
 
@@ -77,8 +77,8 @@ Bu proje, İnsansız Hava Araçları için geleneksel ESC'lerin ötesine geçen,
     <td align="center"><b>3D Görünüm</b></td>
   </tr>
   <tr>
-    <td><img src="pcb_2d.png" width="400"/></td>
-    <td><img src="pcb_3d.png" width="400"/></td>
+    <td><img src="Tasarım Aşamasında" width="400"/></td>
+    <td><img src="Tasarım Aşamasında" width="400"/></td>
   </tr>
 </table>
 
@@ -92,8 +92,8 @@ Bu proje, İnsansız Hava Araçları için geleneksel ESC'lerin ötesine geçen,
     <td align="center"><b>Kart - Arka</b></td>
   </tr>
   <tr>
-    <td><img src="kart1.png" width="400"/></td>
-    <td><img src="kart2.png" width="400"/></td>
+    <td><img src="Tasarım Aşamasında" width="400"/></td>
+    <td><img src="Tasarım Aşamasında" width="400"/></td>
   </tr>
 </table>
 
