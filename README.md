@@ -71,31 +71,13 @@ Bu proje, İnsansız Hava Araçları için geleneksel ESC'lerin ötesine geçen,
 
 ### 💻 PCB Tasarımı
 
-<table>
-  <tr>
-    <td align="center"><b>2D Görünüm</b></td>
-    <td align="center"><b>3D Görünüm</b></td>
-  </tr>
-  <tr>
-    <td><img src="Tasarım Aşamasında" width="400"/></td>
-    <td><img src="Tasarım Aşamasında" width="400"/></td>
-  </tr>
-</table>
+> 🔄 Tasarım aşamasında — görseller üretim sonrası eklenecektir.
 
 ---
 
 ### 🏭 Üretim
 
-<table>
-  <tr>
-    <td align="center"><b>Kart - Ön</b></td>
-    <td align="center"><b>Kart - Arka</b></td>
-  </tr>
-  <tr>
-    <td><img src="Tasarım Aşamasında" width="400"/></td>
-    <td><img src="Tasarım Aşamasında" width="400"/></td>
-  </tr>
-</table>
+> 🔄 Üretim aşamasında — görseller tamamlanınca eklenecektir.
 
 ---
 
