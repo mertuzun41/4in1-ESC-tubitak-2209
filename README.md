@@ -9,7 +9,6 @@ Proje, TÜBİTAK 2209-A Üniversite Öğrencileri Araştırma Projeleri Destekle
 TÜBİTAK 2209-A kapsamında hazırlanan ayrıntılı proje raporuna aşağıdaki bağlantılardan ulaşılabilir.
 
 [PDF raporunu görüntüle](mert_uzun_insansiz_hava_araclarinda_entegre_guc_dagitimi_ve_akim_olcumu_ozellikli_4in1_elektronik_hiz_kontrolcu_karti.pdf)  
-[PDF raporunu indir](mert_uzun_insansiz_hava_araclarinda_entegre_guc_dagitimi_ve_akim_olcumu_ozellikli_4in1_elektronik_hiz_kontrolcu_karti.pdf?raw=1)
 
 ## Proje Bilgileri
 
