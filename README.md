@@ -49,7 +49,9 @@ Kartın temel yapısı dört ana bölümden oluşmaktadır:
 |---|---|
 | Motor sayısı | 4 adet BLDC motor |
 | Batarya | 6S Li-Po |
-| Nominal batarya gerilimi | 22.2 V |
+| Nominal / tam dolu batarya gerilimi | 22.2 V / 25.2 V |
+| Motor başına sürekli akım hedefi | 40 A; yük ve termal testlerle doğrulanacak |
+| PCB hedefi | 4 katman |
 | Motor sürücü yapısı | Üç fazlı MOSFET köprüsü |
 | Regüle çıkışlar | 5 V ve 12 V |
 | Kontrol gerilimi | 3.3 V |
@@ -96,13 +98,10 @@ Aşağıdaki şematik; mikrodenetleyici, gate driver devreleri ve üç fazlı MO
 
 ![Motor kontrol ve güç katları şeması](kontrol.png)
 
-## Proje Raporu
-
-TÜBİTAK 2209-A kapsamında hazırlanan ayrıntılı proje raporuna aşağıdaki bağlantıdan ulaşılabilir:
-
-[Proje raporunu görüntüle veya indir](mert_uzun_insansiz_hava_araclarinda_entegre_guc_dagitimi_ve_akim_olcumu_ozellikli_4in1_elektronik_hiz_kontrolcu_karti.pdf)
-
 ## Proje Durumu
+
+Ön şematik Altium Designer ile hazırlandı; tasarım ve geliştirme çalışmaları sürmektedir. Motor başına 40 A ve akım ölçümündeki ±%5 değerleri tasarım hedefidir; üretilmiş kart üzerinde ölçülmüş sonuç olarak sunulmamaktadır.
+
 
 - [x] Sistem gereksinimlerinin belirlenmesi
 - [x] Devre mimarisinin oluşturulması
@@ -129,6 +128,16 @@ Tasarımın doğrulanması amacıyla aşağıdaki testlerin gerçekleştirilmesi
 - Güç hattı koruma bileşenlerinin davranışının incelenmesi
 - Uçuş kontrolcüsüne iletilen akım bilgisinin doğrulanması
 
+## Kişisel Katkım
+
+Proje yürütücüsü olarak gereksinim, sistem mimarisi, bileşen seçimi ve ön şematik çalışmalarını yürütüyorum. Motor kontrolü, yardımcı güç regülasyonu ve akım ölçümünü ortak kart mimarisinde birleştirmeye odaklanıyorum.
+
+## Yayımlanan Dosyalar
+
+Bu depo şematik görselleri ve TÜBİTAK proje raporunu içerir. Düzenlenebilir Altium kaynakları, tamamlanmış PCB, üretim dosyaları ve motor kontrol yazılımı mevcut depoda yayımlanmamıştır.
+
+[Diğer mühendislik projelerim](https://github.com/mertuzun41/Projeler)
+
 ## İletişim
 
 **Mert Uzun**  
@@ -136,3 +145,4 @@ Kocaeli Üniversitesi
 Elektronik ve Haberleşme Mühendisliği  
 
 [LinkedIn profili](https://www.linkedin.com/in/mert-uzun-b74459308)
+
