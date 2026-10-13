@@ -1,3 +1,5 @@
+**Türkçe** | [English](README.en.md)
+
 # Entegre Güç Dağıtımı ve Akım Ölçümü Özellikli 4-in-1 ESC Kartı
 
 Bu proje, insansız hava araçlarında kullanılmak üzere dört BLDC motoru kontrol edebilen; güç dağıtımı, gerilim regülasyonu ve akım ölçümü işlevlerini tek bir kart üzerinde birleştiren 4-in-1 Elektronik Hız Kontrol (ESC) kartının geliştirilmesini kapsamaktadır.
